@@ -19,7 +19,8 @@ The regression analysis helped to understand how much the average tumor volume w
 
 The pie graph below shows the distribution of the mouses sex. Even though there are more male mice then female mice treated, however the statistics shows there is only a 2% difference. Therefore, sex may not be a significant variable to the study.
 
-![image](https://user-images.githubusercontent.com/83027069/146609909-313d9c5b-4a2c-4325-8faf-623b8b1a199c.png)
+![image](https://user-images.githubusercontent.com/83027069/146610239-b69f32aa-fa9b-4480-a100-047ee91738cb.png)
+
 
 
 Capomulin and Ramicane reduces the size of tumors more.
