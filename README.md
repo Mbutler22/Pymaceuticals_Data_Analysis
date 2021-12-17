@@ -10,6 +10,9 @@ The purpose of this study was to compare the performance of Capomulin, verses ot
 
 The bar graph shows there are 10 treatments in the study. The highest number studied is treated by Capomulin. On the other hand, the lowest number studied is treated by Propriva.  The study was more focused towards Capomulin compared to other treatments. 
 
+![image](https://user-images.githubusercontent.com/83027069/146610102-819d537b-9e9a-4a8d-92dd-8a7ab6b8d5a2.png)
+
+
 The correlation between the weight of the mouse and the volume of the average tumor is 0.84. This concludes when the weight increases the volume of the tumor increases.
 
 The regression analysis helped to understand how much the average tumor volume will change when the weight of the mice change. The R-squared value is 0.70, which means 70% of the model fits the data.  Higher R-squared values represent smaller differences between the observed data and the fitted value. 
