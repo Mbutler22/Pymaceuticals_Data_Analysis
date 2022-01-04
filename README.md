@@ -17,7 +17,7 @@ The correlation between the weight of the mouse and the volume of the average tu
 
 The regression analysis helped to understand how much the average tumor volume will change when the weight of the mice change. The R-squared value is 0.70, which means 70% of the model fits the data.  Higher R-squared values represent smaller differences between the observed data and the fitted value. 
 
-The pie graph below shows the distribution of the mouses sex. Even though there are more male mice then female mice treated, however the statistics shows there is only a 2% difference. Therefore, gender may not be a significant variable to the study.
+The pie graph below shows the distribution of the mouses gender. Even though there are more male mice then female mice treated, however the statistics shows there is only a 2% difference. Therefore, gender may not be a significant variable to the study.
 
 ![image](https://user-images.githubusercontent.com/83027069/146610239-b69f32aa-fa9b-4480-a100-047ee91738cb.png)
 
